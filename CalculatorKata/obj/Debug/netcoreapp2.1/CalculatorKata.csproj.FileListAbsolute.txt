@@ -1,0 +1,14 @@
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\bin\Debug\netcoreapp2.1\CalculatorKata.deps.json
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\bin\Debug\netcoreapp2.1\CalculatorKata.runtimeconfig.json
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\bin\Debug\netcoreapp2.1\CalculatorKata.runtimeconfig.dev.json
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\bin\Debug\netcoreapp2.1\CalculatorKata.dll
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\bin\Debug\netcoreapp2.1\CalculatorKata.pdb
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\obj\Debug\netcoreapp2.1\CalculatorKata.csprojAssemblyReference.cache
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\obj\Debug\netcoreapp2.1\CalculatorKata.csproj.CoreCompileInputs.cache
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\obj\Debug\netcoreapp2.1\CalculatorKata.RazorAssemblyInfo.cache
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\obj\Debug\netcoreapp2.1\CalculatorKata.RazorAssemblyInfo.cs
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\obj\Debug\netcoreapp2.1\CalculatorKata.AssemblyInfoInputs.cache
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\obj\Debug\netcoreapp2.1\CalculatorKata.AssemblyInfo.cs
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\obj\Debug\netcoreapp2.1\CalculatorKata.RazorTargetAssemblyInfo.cache
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\obj\Debug\netcoreapp2.1\CalculatorKata.dll
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata\obj\Debug\netcoreapp2.1\CalculatorKata.pdb

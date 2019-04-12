@@ -1,0 +1,17 @@
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\obj\Release\netcoreapp2.1\AdderKata.Tests.csprojAssemblyReference.cache
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\obj\Release\netcoreapp2.1\AdderKata.Tests.csproj.CoreCompileInputs.cache
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\obj\Release\netcoreapp2.1\AdderKata.Tests.AssemblyInfoInputs.cache
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\obj\Release\netcoreapp2.1\AdderKata.Tests.AssemblyInfo.cs
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\bin\Release\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\bin\Release\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\bin\Release\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\bin\Release\netcoreapp2.1\AdderKata.Tests.deps.json
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\bin\Release\netcoreapp2.1\AdderKata.Tests.runtimeconfig.json
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\bin\Release\netcoreapp2.1\AdderKata.Tests.runtimeconfig.dev.json
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\bin\Release\netcoreapp2.1\AdderKata.Tests.dll
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\bin\Release\netcoreapp2.1\AdderKata.dll
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\bin\Release\netcoreapp2.1\AdderKata.pdb
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\obj\Release\netcoreapp2.1\AdderKata.Tests.csproj.CopyComplete
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\bin\Release\netcoreapp2.1\AdderKata.Tests.pdb
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\obj\Release\netcoreapp2.1\AdderKata.Tests.dll
+C:\Clearent\Taylor-Sandbox\AdderKata\AdderKata.Tests\obj\Release\netcoreapp2.1\AdderKata.Tests.pdb
